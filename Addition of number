@@ -1,0 +1,10 @@
+int main () {
+    int a,b ;
+    printf("enter 1st number",a);
+    scanf("%d",&a);
+     printf("enter 2st number",b);
+    scanf("%d",&b);
+    printf("sum is %d",a+b);
+    return 0;
+
+}
